@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: GPL-2.0
+# Copyright 2023 NXP
+
+obx_imx_s32k_spi_ipc_d-y += obx_imx_s32k_spi_ipc_d.o
+obx_spi_ipc_cli-y += obx_spi_ipc_cli.o
