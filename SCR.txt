@@ -4,7 +4,7 @@ NXP Software Content Register
 Package:                   obx_imx_ipc
 Version:                   v1.0
 Date:                      October 2023
-Outgoing License:          GPL-2.0
+Outgoing License:          GPL-2.0-only
 License File:              LICENSE.txt
 Type of content:           Source code
 Description and comments:  SPI based Inter-Process Communication tool implementation for communication between an i.MX SPI master and an S32K144 SPI slave.
